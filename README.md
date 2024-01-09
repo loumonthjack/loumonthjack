@@ -7,34 +7,7 @@
 - **GitHub**: [github.com/loumonthjack](https://github.com/loumonthjack)
 - **LinkedIn**: [linkedin.com/in/loumonthjack](https://linkedin.com/in/loumonthjack)
 
-## Summary
-Experienced software engineer with a strong background in developing scalable microservices for user authentication and authorization. Proficient in Python, Typescript, PHP, Ruby, and Golang. Skilled in using frameworks such as Express, Flask, React, Apollo GraphQL, Vue, Jest, Laravel, Rails, AWS, Gin, and Temporal. Experienced in DevOps with Kubernetes, Docker, GitHub Actions, CircleCI, and Jenkins. Worked in various domains including FinTech, AdTech, and EventTech. Expert in security aspects like SSO, OIDC, JWT, Session Management, RBAC, SAML, and Policy-Based Authorization.
-## Experience
-
-### Snap Mobile, Remote — Software Engineer II (Backend)
-NOV 2021 - PRESENT
-- Engineered an advanced Single Sign-On (SSO) system, enhancing security and user experience leveraging durable execution using Temporal Workflows.
-- Led the integration of OIDC and JWT for secure, streamlined user authentication.
-- Developed a role-based access control (RBAC) system for fine-grained security management.
-- Implemented session management solutions to maintain state and security in distributed environments.
-
-### Keep It Simple Technologies, Plano, TX (Hybrid) — Software Engineer
-APR 2021 - NOV 2021
-- Optimized and secured software applications by integrating SAML-based authentication.
-- Designed and implemented token-based authentication systems for enhanced security and scalability.
-
-### 360 Intelligent Automation now Drive Auto, Lafayette, LA (Onsite) — Software Developer
-FEB 2019 - APR 2021
-- Contributed to the development of a comprehensive user management system, encompassing aspects of RBAC and session security.
-
-## Education
-- **Business Administration**, University of Louisiana, Lafayette, LA (Aug 2014 - May 2016)
-
-## Certifications
-- [AWS Cloud Practitioner](https://www.credly.com/badges/d930427f-c4cf-4ec1-acf0-fc217e1a6aac?source=linked_in_profile)
-- [Apollo GraphQL Developer Associate](https://www.apollographql.com/tutorials/certifications/717ff98b-0de0-4bf0-9886-b9c6)
-
-## Technical Skills
+## 🧰 Technologies & Tools
 - **Languages**: Python, Typescript, PHP, Ruby, Golang
 - **Frameworks & Libraries**: Express, Flask, React, Apollo GraphQL, Vue, Jest, Laravel, Rails, AWS, Gin, Temporal
 - **DevOps**: Kubernetes, Docker, GitHub Actions, CircleCI, Jenkins
@@ -51,8 +24,8 @@ FEB 2019 - APR 2021
 - SaaS products
 
 ## 🌱 I’m currently learning ...
-- DevOps
 - Automation
+- Networking & Security
 
 ## 💬 Ask me about ...
 - Single Sign-On
