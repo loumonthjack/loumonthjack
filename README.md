@@ -1,13 +1,13 @@
 # Hi, I'm Loumonth Jack Jr 👋
 
-## 📫 How to reach me: ...
+## 📫 I can be reached at ...
 - **Email**: [hello@loumonthjack.com](mailto:hello@loumonthjack.com)
 - **Location**: McKinney, TX
 - **Website**: [loumonthjack.com](https://loumonthjack.com)
 - **GitHub**: [github.com/loumonthjack](https://github.com/loumonthjack)
 - **LinkedIn**: [linkedin.com/in/loumonthjack](https://linkedin.com/in/loumonthjack)
 
-## 🧰 Technologies & Tools
+## 🧰 I have experience with ...
 - **Languages**: Python, Typescript, PHP, Ruby, Golang
 - **Frameworks & Libraries**: Express, Flask, React, Apollo GraphQL, Vue, Jest, Laravel, Rails, AWS, Gin, Temporal
 - **DevOps**: Kubernetes, Docker, GitHub Actions, CircleCI, Jenkins
