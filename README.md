@@ -1,5 +1,5 @@
 # Hi, I'm Loumonth Jack Jr 👋
-![Profile Picture](https://loumonth.s3.amazonaws.com/profile_pic.jpg)
+
 ### 📫 How to reach me: ...
 - **Email**: [hello@loumonthjack.com](mailto:hello@loumonthjack.com)
 - **Location**: McKinney, TX
