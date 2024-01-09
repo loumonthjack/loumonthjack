@@ -1,6 +1,6 @@
 # Hi, I'm Loumonth Jack Jr 👋
 
-### 📫 How to reach me: ...
+## 📫 How to reach me: ...
 - **Email**: [hello@loumonthjack.com](mailto:hello@loumonthjack.com)
 - **Location**: McKinney, TX
 - **Website**: [loumonthjack.com](https://loumonthjack.com)
