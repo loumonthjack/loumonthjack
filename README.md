@@ -3,7 +3,7 @@
 ## 📫 I can be reached at ...
 - **Email**: [hello@loumonthjack.com](mailto:hello@loumonthjack.com)
 - **Location**: McKinney, TX
-- **Website**: [loumonthjack.com](https://loumonthjack.com)
+- **Website**: [loumonthjack.com](https://www.loumonthjack.com)
 - **GitHub**: [github.com/loumonthjack](https://github.com/loumonthjack)
 - **LinkedIn**: [linkedin.com/in/loumonth-jack-jr](https://linkedin.com/in/loumonth-jack-jr)
 
@@ -39,8 +39,8 @@
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a SAML Service Provider in Golang](https://loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-golang)
-- [How to Build a SAML Service Provider in Typescript](https://loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-typescript)
+- [How to Build a SAML Service Provider in Golang](https://www.loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-golang)
+- [How to Build a SAML Service Provider in Typescript](https://www.loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-typescript)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
