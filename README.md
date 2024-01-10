@@ -26,7 +26,7 @@
 
 ## 🌱 I’m currently learning ...
 - Automation
-- Networking & Security
+- Networking
 
 ## 💬 Ask me about ...
 - Single Sign-On
