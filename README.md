@@ -5,7 +5,7 @@
 - **Location**: McKinney, TX
 - **Website**: [loumonthjack.com](https://loumonthjack.com)
 - **GitHub**: [github.com/loumonthjack](https://github.com/loumonthjack)
-- **LinkedIn**: [linkedin.com/in/loumonthjack](https://linkedin.com/in/loumonth-jack-jr)
+- **LinkedIn**: [linkedin.com/in/loumonth-jack-jr](https://linkedin.com/in/loumonth-jack-jr)
 
 ## 🧰 I have experience with ...
 - **Languages**: Python, Typescript, PHP, Ruby, Golang
@@ -15,6 +15,7 @@
 - **Security**: SSO, OIDC, JWT, Session Management, RBAC, SAML, Policy-Based Authorization
 
 ## 🔭 I built these ...
+- [Enterprise Event Management Application - Typescript](https://github.com/loumonthjack/resumed-events)
 - [Simple Auth Service - Typescript](https://github.com/loumonthjack/authentication-graphql)
 - [Simple SAML/OIDC Auth Service - Golang](https://github.com/loumonthjack/go-auth-system)
 
