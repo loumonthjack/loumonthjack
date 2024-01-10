@@ -2,7 +2,7 @@
 
 ## 📫 I can be reached at ...
 - **Email**: [hello@loumonthjack.com](mailto:hello@loumonthjack.com)
-- **Location**: McKinney, TX
+- **Location**: Dallas, TX
 - **Website**: [loumonthjack.com](https://www.loumonthjack.com)
 - **GitHub**: [github.com/loumonthjack](https://github.com/loumonthjack)
 - **LinkedIn**: [linkedin.com/in/loumonth-jack-jr](https://linkedin.com/in/loumonth-jack-jr)
