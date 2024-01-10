@@ -41,9 +41,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to Build a SAML Service Provider in Golang](https://loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-golang)
 - [How to Build a SAML Service Provider in Typescript](https://loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-typescript)
-- [How to Build a SAML Service Provider in Python](https://loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-python)
-- [How to Build a SAML Service Provider in PHP](https://loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-php)
-- [How to Build a SAML Service Provider in Ruby](https://loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-ruby)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 Stats
