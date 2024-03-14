@@ -24,10 +24,6 @@
 - Cloud-native applications
 - SaaS products
 
-## 🌱 I’m currently learning ...
-- Automation
-- Networking
-
 ## 💬 Ask me about ...
 - Single Sign-On
 - SAML
@@ -36,12 +32,3 @@
 - RBAC
 - Session Management
 - Policy-Based Authorization
-
-## 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How to Build a SAML Service Provider in Golang](https://www.loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-golang)
-- [How to Build a SAML Service Provider in Typescript](https://www.loumonthjack.com/blog/how-to-build-a-saml-service-provider-in-typescript)
-<!-- BLOG-POST-LIST:END -->
-
-## 📈 Stats
-![Loumonth's GitHub stats](https://github-readme-stats.vercel.app/api?username=loumonthjack&count_private=true&show_icons=true&theme=radical)
