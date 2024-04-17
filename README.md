@@ -7,12 +7,12 @@
 - **GitHub**: [github.com/loumonthjack](https://github.com/loumonthjack)
 - **LinkedIn**: [linkedin.com/in/loumonth-jack-jr](https://linkedin.com/in/loumonth-jack-jr)
 
-## 🧰 I have experience with ...
-- **Languages**: Python, Typescript, PHP, Ruby, Golang
-- **Frameworks & Libraries**: Express, Flask, React, Apollo GraphQL, Vue, Jest, Laravel, Rails, AWS, Gin, Temporal
-- **DevOps**: Kubernetes, Docker, GitHub Actions, CircleCI, Jenkins
+## 🧰 I have experience with (not limited to) ...
+- **Languages**: Python, Typescript, Golang
+- **Frameworks & Libraries**: Express, Flask, React, Jest, AWS, PostgreSQL, Temporal
+- **DevOps**: Kubernetes, Docker, GitHub Actions, CircleCI
 - **Domains**: FinTech, AdTech, EventTech
-- **Security**: SSO, OIDC, JWT, Session Management, RBAC, SAML, Policy-Based Authorization
+- **Security**: SSO, Session Management, RBAC, SAML
 
 ## 🔭 I built these ...
 - [Enterprise Event Management Application - Typescript](https://github.com/loumonthjack/resumed-events)
