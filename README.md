@@ -16,7 +16,6 @@
 ## 🔭 I built these ...
 - [Enterprise Event Management Application - Typescript](https://github.com/loumonthjack/resumed-events)
 - [Simple Auth Service - Typescript](https://github.com/loumonthjack/authentication-graphql)
-- [Simple SAML/OIDC Auth Service - Golang](https://github.com/loumonthjack/go-auth-system)
 
 ## 👯 I’m looking to collaborate on ...
 - Open source projects
