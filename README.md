@@ -2,7 +2,7 @@
 
 ## 📫 I can be reached at ...
 - **Email**: [hello@loumonthjack.com](mailto:hello@loumonthjack.com)
-- **Location**: Dallas, TX
+- **Location**: North Dallas, TX
 - **GitHub**: [github.com/loumonthjack](https://github.com/loumonthjack)
 - **LinkedIn**: [linkedin.com/in/loumonth-jack-jr](https://linkedin.com/in/loumonth-jack-jr)
 
