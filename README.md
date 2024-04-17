@@ -27,3 +27,4 @@
 - Workflow Execution
 - GraphQL
 - SQL Optimization
+- Package Management
