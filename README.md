@@ -21,13 +21,10 @@
 ## 👯 I’m looking to collaborate on ...
 - Open source projects
 - Cloud-native applications
-- SaaS products
 
 ## 💬 Ask me about ...
-- Single Sign-On
-- SAML
-- OIDC
-- JWT
-- RBAC
-- Session Management
-- Policy-Based Authorization
+- Messaging
+- Authentication
+- Workflow Execution
+- GraphQL
+- SQL Optimization
