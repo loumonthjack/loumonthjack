@@ -16,6 +16,7 @@
 ## 🔭 I built these ...
 - [Enterprise Event Management Application - Typescript](https://github.com/loumonthjack/resumed-events)
 - [Simple Auth Service - Typescript](https://github.com/loumonthjack/authentication-graphql)
+- [RPN Calculator - Typescript](https://github.com/loumonthjack/rpn-calculator)
 
 ## 👯 I’m looking to collaborate on ...
 - Open source projects
