@@ -5,7 +5,6 @@ Senior Software Engineer specializing in scalable, secure, and efficient softwar
 ## 📫 How to reach me
 - **Email**: [loumonth.jack.jr@gmail.com](mailto:loumonth.jack.jr@gmail.com)
 - **Location**: McKinney, TX (North Dallas area)
-- **Phone**: (469) 659-2595
 - **LinkedIn**: [linkedin.com/in/loumonth-jack-jr](https://linkedin.com/in/loumonth-jack-jr)
 
 ## 🚀 Professional Summary
