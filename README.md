@@ -1,6 +1,6 @@
 # Hi, I'm Loumonth Jack Jr 👋
 
-Senior Software Engineer specializing in scalable, secure, and efficient software solutions.
+Software Engineer specializing in scalable, secure, and efficient software solutions.
 
 ## 📫 How to reach me
 - **Email**: [loumonth.jack.jr@gmail.com](mailto:loumonth.jack.jr@gmail.com)
@@ -8,7 +8,7 @@ Senior Software Engineer specializing in scalable, secure, and efficient softwar
 - **LinkedIn**: [linkedin.com/in/loumonth-jack-jr](https://linkedin.com/in/loumonth-jack-jr)
 
 ## 🚀 Professional Summary
-Adept Software Engineer with a proven track record in System Design, Application Security, and building scalable, event-driven architectures. Experienced in developing full-stack solutions that handle high-volume operations and enhance operational efficiency.
+Experienced in developing secure full-stack solutions that handle high-volume operations and enhance operational efficiency.
 
 ## 🛠 Technical Expertise
 - **Languages**: JavaScript/TypeScript, Python, SQL
@@ -19,7 +19,7 @@ Adept Software Engineer with a proven track record in System Design, Application
 - **Security**: Two-Factor Authentication (2FA), Encryption, Secure Cloud Infrastructure
 
 ## 🏆 Key Achievements
-- Designed and developed a full-stack event-driven communication service processing over 40,000 daily emails and SMS messages.
+- Designed and developed a full-stack event-driven communication service processing over 120,000 daily emails and SMS messages.
 - Implemented a scalable onboarding framework that improved operational efficiency by 60% and increased first-year customer retention by 40%.
 - Enhanced lead analysis tools resulting in a 20% reduction in lead response time and a 12% increase in dealership satisfaction scores.
 
