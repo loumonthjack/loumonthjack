@@ -26,14 +26,11 @@ Experienced in developing secure full-stack solutions that handle high-volume op
 ## 🔭 Notable Projects
 - **Event-Driven Communication Service**: Built a robust system for email/SMS template management and message delivery, featuring a React-based editor, version history, and security measures including 2FA.
 - **Encryption Tool**: Developed an internal tool for decentralized key management, enhancing reliability and promoting loose coupling.
-- **Scalable Onboarding Framework (ground.assist)**: Designed a flexible system with dynamic form generation, role management, and real-time data validation.
+- **Scalable Onboarding Framework**: Designed a flexible system with dynamic form generation, role management, and real-time data validation.
 
 ## 💡 Areas of Expertise
-- System Design & Architecture
 - Application Security
-- Database Optimization
-- API Development (REST & GraphQL)
-- Continuous Integration & Deployment
+- API Development
 - Monitoring and Debugging
 - Algorithm Implementation
 
@@ -43,7 +40,6 @@ Experienced in developing secure full-stack solutions that handle high-volume op
 
 ## 👯 I'm looking to collaborate on
 - Open-source projects focusing on scalable architectures
-- Innovative FinTech, AdTech, or EventTech solutions
 - Systems that push the boundaries of performance and security
 
 ## 💬 Ask me about
