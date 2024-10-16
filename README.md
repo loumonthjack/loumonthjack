@@ -22,6 +22,7 @@ Experienced in developing secure full-stack solutions that handle high-volume op
 - Designed and developed a full-stack event-driven communication service processing over 120,000 daily emails and SMS messages.
 - Implemented a scalable onboarding framework that improved operational efficiency by 60% and increased first-year customer retention by 40%.
 - Enhanced lead analysis tools resulting in a 20% reduction in lead response time and a 12% increase in dealership satisfaction scores.
+- Built a secure secrets manager to encrypt/decrypt keys for distributed service provider usage in the communication service.
 
 ## 🔭 Notable Projects
 - **Event-Driven Communication Service**: Built a robust system for email/SMS template management and message delivery, featuring a React-based editor, version history, and security measures including 2FA.
