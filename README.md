@@ -16,7 +16,7 @@ Experienced in developing secure full-stack solutions that handle high-volume op
 - **Databases**: PostgreSQL
 - **Cloud & DevOps**: AWS, Temporal, CI/CD
 - **Architecture**: Event-Driven Systems, Microservices, Modular Monolith
-- **Security**: Two-Factor Authentication (2FA), Encryption, Secure Cloud Infrastructure
+- **Security**: Two-Factor Authentication (2FA), Encryption
 
 ## 🏆 Key Achievements
 - Designed and developed a full-stack event-driven communication service processing over 120,000 daily emails and SMS messages.
