@@ -15,7 +15,7 @@ Experienced in developing secure full-stack solutions that handle high-volume op
 - **Frameworks & Libraries**: React, Redux, Node.js, Express, Flask, Apollo GraphQL, Vue.js
 - **Databases**: PostgreSQL
 - **Cloud & DevOps**: AWS, Temporal, CI/CD
-- **Architecture**: Event-Driven Systems, Microservices, Modular Monolith
+- **Architecture**: Microservices, Modular Monolith
 - **Security**: Two-Factor Authentication (2FA), Encryption
 
 ## 🏆 Key Achievements
