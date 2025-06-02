@@ -3,7 +3,7 @@
 Software Engineer specializing in scalable, secure, and efficient software solutions.
 
 ## 📫 How to reach me
-- **Email**: [loumonth.jack.jr@gmail.com](mailto:loumonth.jack.jr@gmail.com)
+- **Email**: [me@loumonthjack.com](mailto:me@loumonthjack.com)
 - **Location**: McKinney, TX (North Dallas area)
 - **LinkedIn**: [linkedin.com/in/loumonth-jack-jr](https://linkedin.com/in/loumonth-jack-jr)
 
@@ -19,7 +19,7 @@ Experienced in developing secure full-stack solutions that handle high-volume op
 - **Security**: Two-Factor Authentication (2FA), Encryption
 
 ## 🏆 Key Achievements
-- Designed and developed a full-stack event-driven communication service processing over 120,000 daily emails and SMS messages.
+- Designed and developed a full-stack event-driven communication service processing over 40,000 daily emails and SMS messages.
 - Implemented a scalable onboarding framework that improved operational efficiency by 60% and increased first-year customer retention by 40%.
 - Enhanced lead analysis tools resulting in a 20% reduction in lead response time and a 12% increase in dealership satisfaction scores.
 - Built a secure secrets manager to encrypt/decrypt keys for distributed service provider usage in the communication service.
@@ -36,7 +36,7 @@ Experienced in developing secure full-stack solutions that handle high-volume op
 - Algorithm Implementation
 
 ## 📜 Certifications
-- AWS Cloud Practitioner
+- AWS Solution Architect
 - Apollo GraphQL Developer
 
 ## 👯 I'm looking to collaborate on
