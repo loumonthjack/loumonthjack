@@ -13,10 +13,10 @@ Experienced in developing secure full-stack solutions that handle high-volume op
 ## 🛠 Technical Expertise
 - **Languages**: JavaScript/TypeScript, Python, SQL
 - **Frameworks & Libraries**: React, Redux, Node.js, Express, Flask, Apollo GraphQL, Vue.js
-- **Databases**: PostgreSQL
-- **Cloud & DevOps**: AWS, Temporal, CI/CD
+- **Databases**: PostgreSQL, MongoDB, DynamoDB
+- **Cloud & DevOps**: AWS, Temporal, CI/CD, Docker
 - **Architecture**: Microservices, Modular Monolith
-- **Security**: Two-Factor Authentication (2FA), Encryption
+- **Security**: Two-Factor Authentication (2FA), Encryption, Tokenization
 
 ## 🏆 Key Achievements
 - Designed and developed a full-stack event-driven communication service processing over 40,000 daily emails and SMS messages.
