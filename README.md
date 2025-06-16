@@ -14,7 +14,7 @@ Experienced in developing secure full-stack solutions that handle high-volume op
 - **Languages**: JavaScript/TypeScript, Python, SQL
 - **Frameworks & Libraries**: React, Redux, Node.js, Express, Flask, Apollo GraphQL, Vue.js
 - **Databases**: PostgreSQL, MongoDB, DynamoDB
-- **Cloud & DevOps**: AWS, Temporal, CI/CD, Docker
+- **Cloud & DevOps**: Jenkins, Github Actions, Docker
 - **Architecture**: Microservices, Modular Monolith
 - **Security**: Two-Factor Authentication (2FA), Encryption, Tokenization
 
