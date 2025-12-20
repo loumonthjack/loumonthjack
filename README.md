@@ -24,9 +24,9 @@ I leverage cutting-edge AI tools to accelerate development while maintaining cod
 |------|---------|
 | **Kiro** | Spec-driven development with AI steering |
 | **Claude** | Pair programming, code review, architecture design |
-| **Cursor / Windsurf** | AI-native code editing |
-| **GitHub Copilot** | Inline completions & chat |
-| **v0.dev** | Rapid UI prototyping |
+| **Cursor** | AI-native code editing |
+| **Antigravity** | Inline completions, chat and extended review |
+| **Lovable** | Rapid UI prototyping |
 
 ### Development Philosophy
 
@@ -54,10 +54,10 @@ Python      ██████████████░░░░░░  70%
 ```
 
 ### Core Stack
-- **Frontend**: React, Vue.js, Next.js, TailwindCSS
+- **Frontend**: React, Vue.js, TailwindCSS
 - **Backend**: Node.js, Express, Go, GraphQL (Apollo)
 - **Data**: PostgreSQL, MongoDB, DynamoDB, Redis
-- **Cloud**: AWS (Certified Architect), Vercel, Cloudflare
+- **Cloud**: AWS, Cloudflare
 - **DevOps**: Docker, GitHub Actions, Terraform
 
 ### Architecture Patterns
@@ -119,7 +119,7 @@ I'm passionate about:
 - 🤖 AI-augmented development workflows
 - 📐 Clean, maintainable, well-documented code
 
-**Open to collaborations** on projects pushing the boundaries of what's possible with AI-assisted development.
+**Open to collaborations** on projects pushing the boundaries of what's possible with AI-assisted and AI-agentic development.
 
 ---
 
