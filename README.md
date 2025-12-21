@@ -25,8 +25,8 @@ I leverage cutting-edge AI tools to accelerate development while maintaining cod
 |------|---------|
 | **Kiro** | Spec-driven development with AI steering |
 | **Claude** | Pair programming, code review, architecture design |
-| **Cursor** | AI-native code editing |
-| **Antigravity** | Inline completions, chat and extended review |
+| **Cursor** | Inline completions, AI-native code editing |
+| **Antigravity** | Browser review and agent manager |
 | **Lovable** | Rapid UI prototyping |
 
 ### Development Philosophy
