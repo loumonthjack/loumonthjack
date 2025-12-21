@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/Email-me%40loumonthjack.com-blue?style=flat-square)](mailto:me@loumonthjack.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-loumonth--jack--jr-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/loumonth-jack-jr)
 [![Location](https://img.shields.io/badge/📍-McKinney%2C%20TX-green?style=flat-square)]()
-[![Website](https://img.shields.io/badge/Website-loumonthjack.com?style=flat-square&logo=linkedin)](https://loumonthjack.com)
+[![Website](https://img.shields.io/badge/Website-loumonthjack.com-purple?style=flat-square&logo=googlechrome)](https://loumonthjack.com)
 
 ---
 
