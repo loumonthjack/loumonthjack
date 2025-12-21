@@ -65,18 +65,6 @@ Python      ██████████████░░░░░░  70%
 - Event-Driven Systems
 - Microservices & Serverless
 - Modular Monoliths
-- CQRS & Event Sourcing
-
----
-
-## 🏆 Impact Metrics
-
-| Achievement | Impact |
-|-------------|--------|
-| Event-driven communication service | **40,000+** daily messages |
-| Scalable onboarding framework | **60%** efficiency gain |
-| Customer retention improvement | **40%** first-year increase |
-| Lead response optimization | **20%** faster response time |
 
 ---
 
@@ -84,22 +72,15 @@ Python      ██████████████░░░░░░  70%
 
 ### 📨 Event-Driven Communication Service
 Full-stack system for email/SMS template management with React editor, version history, and 2FA security.
-`TypeScript` `React` `Node.js` `PostgreSQL` `AWS SES`
+`TypeScript` `React` `Node.js` `PostgreSQL` `Temporal`
 
 ### 🔐 Distributed Secrets Manager
 Internal encryption tool for decentralized key management across microservices.
-`Go` `AES-256` `HashiCorp Vault Pattern`
+`Microservices` `AES-256` `HashiCorp Vault Pattern`
 
 ### 🚀 Dynamic Onboarding Framework
 Flexible system with dynamic form generation, role management, and real-time validation.
 `React` `GraphQL` `PostgreSQL`
-
----
-
-## 📜 Certifications
-
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws" />
-<img src="https://img.shields.io/badge/Apollo-GraphQL%20Developer-311C87?style=for-the-badge&logo=apollo-graphql" />
 
 ---
 
