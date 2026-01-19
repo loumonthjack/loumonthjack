@@ -17,29 +17,6 @@
 
 ---
 
-## 🤖 AI-Augmented Development Stack
-
-I leverage cutting-edge AI tools to accelerate development while maintaining code quality and architectural integrity.
-
-| Tool | Purpose |
-|------|---------|
-| **Kiro** | Spec-driven development with AI steering |
-| **Claude** | Pair programming, code review, architecture design |
-| **Cursor** | Inline completions, AI-native code editing |
-| **Antigravity** | Browser review and agent manager |
-| **Lovable** | Rapid UI prototyping |
-
-### Development Philosophy
-
-```mermaid
-graph LR
-    A[Spec] --> B[Design]
-    B --> C[AI-Assisted Implementation]
-    C --> D[Human Review]
-    D --> E[Ship]
-    E --> A
-```
-
 **Spec-Driven Development** — I use structured specifications to guide AI agents, ensuring consistent, well-documented, and maintainable code. Every feature starts with requirements, evolves through design, and executes via task-driven implementation.
 
 ---
@@ -86,7 +63,7 @@ Flexible system with dynamic form generation, role management, and real-time val
 
 ## 🧪 Currently Exploring
 
-- **AI Agent Orchestration** — Building autonomous development workflows
+- **AI Agent Orchestration** — Building autonomous development workflows (AGENTS.md, SKILLS.md, context-engineering, agent driven development)
 - **LLM-Powered Code Review** — Automated PR analysis and suggestions
 - **Spec-Driven AI Development** — Using Kiro for structured feature development
 - **Edge Computing** — Cloudflare Workers, Deno Deploy
