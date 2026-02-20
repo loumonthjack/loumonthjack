@@ -49,7 +49,7 @@ Python      ██████████████░░░░░░  70%
 
 ### 📨 Event-Driven Communication Service
 Full-stack system for email/SMS template management with React editor, version history, and 2FA security.
-`TypeScript` `React` `Node.js` `PostgreSQL` `Temporal`
+`TypeScript` `React` `Node.js` `PostgreSQL` `Temporal` `Go`
 
 ### 🔐 Distributed Secrets Manager
 Internal encryption tool for decentralized key management across microservices.
