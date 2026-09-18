@@ -60,7 +60,7 @@ Serverless infrastructure for deploying AI agents at scale. Organizations config
 
 **LLM-native code review** — Automated PR analysis that understands architectural intent, not just diffs
 
-**Edge inference** — Cloudflare Workers + Deno Deploy for latency-sensitive AI workloads
+**Automated agent cycles** — Self-directed planning and execution loops that replan from results instead of following fixed scripts
 
 ---
 
