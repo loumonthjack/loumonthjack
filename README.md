@@ -2,7 +2,7 @@
 
 # Loumonth Jack Jr
 
-**Product Engineer** · Building AI-native infrastructure from McKinney, TX
+**AI Product Engineer** · Building AI-native infrastructure from McKinney, TX
 
 [![Website](https://img.shields.io/badge/loumonthjack.com-000?style=flat-square&logo=googlechrome&logoColor=fff)](https://loumonthjack.com)
 [![Email](https://img.shields.io/badge/me%40loumonthjack.com-0A0A0A?style=flat-square&logo=gmail&logoColor=fff)](mailto:me@loumonthjack.com)
