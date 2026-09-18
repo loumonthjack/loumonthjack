@@ -56,7 +56,7 @@ Serverless infrastructure for deploying AI agents at scale. Organizations config
 
 ## Currently Exploring
 
-**Agent orchestration** — AGENTS.md, SKILLS.md, context-engineering, spec-driven development with [Kiro](https://kiro.dev)
+**Agent orchestration** — AGENTS.md, SKILLS.md, context-engineering, spec-driven development with Antigravity
 
 **LLM-native code review** — Automated PR analysis that understands architectural intent, not just diffs
 
