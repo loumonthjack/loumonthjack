@@ -1,91 +1,85 @@
-# Loumonth Jack Jr ⚡
+<div align="center">
 
-> **Software Engineer** | Building the future with AI-augmented development
+# Loumonth Jack Jr
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  🧠 Human Intelligence  ←→  🤖 AI Collaboration  ←→  🚀 Ship │
-└──────────────────────────────────────────────────────────────┘
-```
+**Software Engineer** · Building AI-native infrastructure from McKinney, TX
 
-## 🌐 Connect
+[![Website](https://img.shields.io/badge/loumonthjack.com-000?style=flat-square&logo=googlechrome&logoColor=fff)](https://loumonthjack.com)
+[![Email](https://img.shields.io/badge/me%40loumonthjack.com-0A0A0A?style=flat-square&logo=gmail&logoColor=fff)](mailto:me@loumonthjack.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=fff)](https://linkedin.com/in/loumonth-jack-jr)
 
-[![Website](https://img.shields.io/badge/Website-loumonthjack.com-purple?style=flat-square&logo=googlechrome)](https://loumonthjack.com)
-[![Email](https://img.shields.io/badge/Email-me%40loumonthjack.com-blue?style=flat-square)](mailto:me@loumonthjack.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-loumonth--jack--jr-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/loumonth-jack-jr)
-[![Location](https://img.shields.io/badge/📍-McKinney%2C%20TX-green?style=flat-square)]()
+</div>
 
 ---
 
-**Spec-Driven Development** — I use structured specifications to guide AI agents, ensuring consistent, well-documented, and maintainable code. Every feature starts with requirements, evolves through design, and executes via task-driven implementation.
+I build platforms where AI does the heavy lifting — not as a gimmick, but as core architecture. My current focus is **MAAP** (Managed AI Agents Platform): a serverless, multi-tenant system for deploying AI agents on AWS Bedrock with usage-based billing, real-time streaming, and human-in-the-loop workflows.
+
+My development approach is spec-driven: requirements before code, structured agent instructions before implementation, context before context-switching. I've found that well-designed prompts and specs produce more maintainable systems than clever code ever did.
 
 ---
 
-## 🛠 Technical Arsenal
+## Stack
 
-### Languages & Runtimes
-```
-TypeScript  ████████████████████  95%
-Go          ████████████████░░░░  80%
-SQL         ███████████████░░░░░  75%
-Python      ██████████████░░░░░░  70%
-```
+**Languages** — TypeScript, Go, SQL, Python
 
-### Core Stack
-- **Frontend**: React, Vue.js, TailwindCSS
-- **Backend**: Node.js, Express, Go, GraphQL (Apollo)
-- **Data**: PostgreSQL, MongoDB, DynamoDB, Redis
-- **Cloud**: AWS, Cloudflare
-- **DevOps**: Docker, GitHub Actions, Terraform
+**Frontend** — React, TailwindCSS, TanStack Router, Zustand
 
-### Architecture Patterns
-- Event-Driven Systems
-- Microservices & Serverless
-- Modular Monoliths
+**Backend** — Go, Node.js, GraphQL (Apollo), REST
+
+**Data** — DynamoDB, PostgreSQL, Redis, Pinecone
+
+**Cloud** — AWS (Lambda, Bedrock, SQS, SES, CDK), Cloudflare
+
+**Patterns** — Serverless, Event-driven, Single-table DynamoDB, RAG pipelines
 
 ---
 
-## 🔭 Featured Projects
+## What I'm Building
 
-### 📨 Event-Driven Communication Service
-Full-stack system for email/SMS template management with React editor, version history, and 2FA security.
-`TypeScript` `React` `Node.js` `PostgreSQL` `Temporal` `Go`
+### [MAAP — Managed AI Agents Platform](https://maap.dev)
 
-### 🔐 Distributed Secrets Manager
-Internal encryption tool for decentralized key management across microservices.
-`Microservices` `AES-256` `HashiCorp Vault Pattern`
+Serverless infrastructure for deploying AI agents at scale. Organizations configure agents with custom instructions, attach knowledge bases for RAG, connect external services via MCP, and embed them anywhere via a JS widget. Built on AWS Bedrock with Go lambdas, DynamoDB single-table design, and SSE streaming.
 
-### 🚀 Dynamic Onboarding Framework
-Flexible system with dynamic form generation, role management, and real-time validation.
-`React` `GraphQL` `PostgreSQL`
+`Go` `TypeScript` `React` `AWS Bedrock` `DynamoDB` `Redis` `Pinecone`
 
 ---
 
-## 🧪 Currently Exploring
+## Past Work
 
-- **AI Agent Orchestration** — Building autonomous development workflows (AGENTS.md, SKILLS.md, context-engineering, agent driven development)
-- **LLM-Powered Code Review** — Automated PR analysis and suggestions
-- **Spec-Driven AI Development** — Using Kiro for structured feature development
-- **Edge Computing** — Cloudflare Workers, Deno Deploy
+**Event-Driven Communication Service** — Full-stack template management for email/SMS with a React editor, version history, and 2FA. `TypeScript · React · Go · PostgreSQL · Temporal`
 
----
+**Distributed Secrets Manager** — Decentralized key management across microservices with AES-256 encryption. `Go · Microservices · Vault pattern`
 
-## 💬 Let's Build Together
-
-I'm passionate about:
-- 🏗️ Scalable architectures that handle millions of operations
-- 🔒 Security-first development practices
-- 🤖 AI-augmented development workflows
-- 📐 Clean, maintainable, well-documented code
-
-**Open to collaborations** on projects pushing the boundaries of what's possible with AI-assisted and AI-agentic development.
+**Dynamic Onboarding Framework** — Form generation engine with role management and real-time validation. `React · GraphQL · PostgreSQL`
 
 ---
 
-<p align="center">
-  <i>"The best code is the code that writes itself — with a little help from AI."</i>
-</p>
+## Currently Exploring
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=loumonthjack&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+**Agent orchestration** — AGENTS.md, SKILLS.md, context-engineering, spec-driven development with [Kiro](https://kiro.dev)
+
+**LLM-native code review** — Automated PR analysis that understands architectural intent, not just diffs
+
+**Edge inference** — Cloudflare Workers + Deno Deploy for latency-sensitive AI workloads
+
+---
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=loumonthjack&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff)](https://github.com/loumonthjack)
+&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loumonthjack&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e)](https://github.com/loumonthjack)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=loumonthjack&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=8b949e)](https://github.com/loumonthjack)
+
+<img src="https://komarev.com/ghpvc/?username=loumonthjack&style=flat-square&color=58a6ff" alt="Profile views"/>
+
+</div>
+
+---
+
+<div align="center">
+
+Open to collaborations on AI-native systems, developer tooling, and anything that makes building software more intentional.
+
+</div>
