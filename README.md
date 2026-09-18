@@ -38,7 +38,7 @@ My development approach is spec-driven: requirements before code, structured age
 
 ### [MAAP — Managed AI Agents Platform](https://maap.dev)
 
-Serverless infrastructure for deploying AI agents at scale. Organizations configure agents with custom instructions, attach knowledge bases for RAG, connect external services via MCP, and embed them anywhere via a JS widget. Built on AWS Bedrock with Go lambdas, DynamoDB single-table design, and SSE streaming.
+Serverless infrastructure for deploying AI agents at scale. Organizations configure agents with custom instructions, attach knowledge bases for RAG, and connect external services via MCP. Agents are reachable client-side through an embeddable JS widget backed by scoped, origin-restricted public keys, or server-side through authenticated REST and streaming APIs, so browser traffic never touches provider credentials. Built on AWS Bedrock with Go lambdas, DynamoDB single-table design, and SSE streaming.
 
 `Go` `TypeScript` `React` `AWS Bedrock` `DynamoDB` `Redis` `Pinecone`
 
