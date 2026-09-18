@@ -66,10 +66,6 @@ Serverless infrastructure for deploying AI agents at scale. Organizations config
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=loumonthjack&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff)](https://github.com/loumonthjack)
-&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loumonthjack&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e)](https://github.com/loumonthjack)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=loumonthjack&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=8b949e)](https://github.com/loumonthjack)
 
 <img src="https://komarev.com/ghpvc/?username=loumonthjack&style=flat-square&color=58a6ff" alt="Profile views"/>
