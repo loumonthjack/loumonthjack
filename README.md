@@ -12,8 +12,6 @@
 
 ---
 
-I build platforms where AI does the heavy lifting — not as a gimmick, but as core architecture. My current focus is **MAAP** (Managed AI Agents Platform): a serverless, multi-tenant system for deploying AI agents on AWS Bedrock with usage-based billing, real-time streaming, and human-in-the-loop workflows.
-
 My development approach is spec-driven: requirements before code, structured agent instructions before implementation, context before context-switching. I've found that well-designed prompts and specs produce more maintainable systems than clever code ever did.
 
 ---
@@ -31,16 +29,6 @@ My development approach is spec-driven: requirements before code, structured age
 **Cloud** — AWS (Lambda, Bedrock, SQS, SES, CDK), Cloudflare
 
 **Patterns** — Serverless, Event-driven, Single-table DynamoDB, RAG pipelines
-
----
-
-## What I'm Building
-
-### [MAAP — Managed AI Agents Platform](https://maap.dev)
-
-Serverless infrastructure for deploying AI agents at scale. Organizations configure agents with custom instructions, attach knowledge bases for RAG, and connect external services via MCP. Agents are reachable client-side through an embeddable JS widget backed by scoped, origin-restricted public keys, or server-side through authenticated REST and streaming APIs, so browser traffic never touches provider credentials. Built on AWS Bedrock with Go lambdas, DynamoDB single-table design, and SSE streaming.
-
-`Go` `TypeScript` `React` `AWS Bedrock` `DynamoDB` `Redis` `Pinecone`
 
 ---
 
