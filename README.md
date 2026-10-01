@@ -16,7 +16,7 @@ My development approach is spec-driven: requirements before code, structured age
 
 ---
 
-## Stack
+## Preferred Stack
 
 **Languages** — TypeScript, Go, SQL, Python
 
@@ -26,7 +26,7 @@ My development approach is spec-driven: requirements before code, structured age
 
 **Data** — DynamoDB, PostgreSQL, Redis, Pinecone
 
-**Cloud** — AWS (Lambda, Bedrock, SQS, SES, CDK), Cloudflare
+**Cloud** — AWS (Lambda, Bedrock, SQS, SES, CDK), Cloudflare, Docker
 
 **Patterns** — Serverless, Event-driven, Single-table DynamoDB, RAG pipelines
 
